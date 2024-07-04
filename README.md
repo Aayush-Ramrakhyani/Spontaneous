@@ -1,4 +1,4 @@
-Guide to Using the Flutter App for Viewing Chuck Norris Jokes
+Guide to Using the Flutter App for Viewing Chuck Norris Jokes  -----  You can see screenshot of app in photos folder
 
 1. Purpose of the App:
 	This app lets you view jokes about Chuck Norris. You can choose a joke category, and the	 	app will display a random joke from that category
